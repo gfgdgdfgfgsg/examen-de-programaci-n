@@ -1,0 +1,20 @@
+package examen.Models;
+
+public class Distrito {
+    private int listado;
+    private int votantes;
+
+    public Distrito() { /* compiled code */ }
+
+    public Distrito(int listado, int votantes) { /* compiled code */ }
+
+    public int getListado() { /* compiled code */ }
+
+    public int getVotantes() { /* compiled code */ }
+
+    public void setListado(int listado) { /* compiled code */ }
+
+    public void setVotantes(int votantes) { /* compiled code */ }
+
+    public java.lang.String toString() { /* compiled code */ }
+}
